@@ -1,0 +1,21 @@
+.headertitle {
+    background-color: blue;
+    color: white;
+    text-align: end;
+}
+
+button {
+    background-color: gray;
+    border-radius: 5px;
+}
+
+.searchBtn {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+.weeklyforecast {
+    text-align: center;
+
+}
